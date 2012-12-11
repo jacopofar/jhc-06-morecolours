@@ -12,7 +12,7 @@ That is, lower values are represented as black, highest as red.
 
 Result
 ======
-Example of resulting image (this is a test of an hash function)
+Sample of a resulting image (the data is from a test of an hash function)
 ![alt text](https://raw.github.com/jacopofar/jhc-06-morecolours/master/bloom_map.png "Result example")
 
 Example usage
