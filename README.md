@@ -10,11 +10,17 @@ The colour scale used is:
 
 That is, lower values are represented as black, highest as red.
 
+Result
+======
+Example of resulting image (this is a test of an hash function)
+![alt text](https://raw.github.com/jacopofar/jhc-06-morecolours/master/bloom_map.png "Result example")
+
 Example usage
 ============
 Just like the original version
 
-// Create some dummy data.
+
+    // Create some dummy data.
     double[][] data = new double[][]{{3,2,3,4,5,6},
                                      {2,3,4,5,6,7},
                                      {3,4,5,6,7,6},
