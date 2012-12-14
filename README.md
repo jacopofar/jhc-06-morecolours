@@ -3,7 +3,7 @@ jhc-06-morecolours
 
 This is a modified version of JHeatMap 0.6 by Tom Castle (www.tc33.org).
 
-In this version, the colour change when the value increase, not only the brightness.
+In this version, the colour changes when the value increase, not only the brightness.
 The colour scale used is:
 
      black->blue->green->yellow->red
